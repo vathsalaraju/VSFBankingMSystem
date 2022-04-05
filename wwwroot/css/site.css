@@ -65,6 +65,7 @@ footer {
     margin-right: auto;
     height: 400px;
     width: 500px;
+    overflow-wrap: normal;
 }
 
 .form-group {
