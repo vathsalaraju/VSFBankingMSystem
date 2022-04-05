@@ -13,7 +13,7 @@ html {
     min-height: 100%;
 }
 
-body {
+.bg {
     background-image: url('https://previews.123rf.com/images/chormuang/chormuang2105/chormuang210500019/168785814-internet-banking-technology-isometric-illustration-of-bank-on-dark-blue-technology-background-digita.jpg');
     /*  border: 2px solid black;*/
     /*backdrop-filter: blur(5px);*/
